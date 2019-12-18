@@ -3,11 +3,11 @@
 ## Objectives
 
 1. Define a method to convert a user's input to an array index.
-2. Define a method that updates an array passed to it.
-3. Define a method with a default value.
-4. Use a method in a CLI.
-5. Accept user input via gets.
-6. Use user input in a method.
+  2. Define a method that updates an array passed to it.
+  3. Define a method with a default value.
+  4. Use a method in a CLI.
+  5. Accept user input via gets.
+  6. Use user input in a method.
 
 ## Overview
 
